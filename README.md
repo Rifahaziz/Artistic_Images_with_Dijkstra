@@ -10,3 +10,4 @@ the existing Dijkstra’s algorithm for the formation of different site regions.
 images collected from Carleton University. The method is inexpensive and faster compared to recreating images with neural network models, such as 
 Generative Adversarial Networks (GANs).
 
+This project was part of my master's course "Image StyliZation".
